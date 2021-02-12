@@ -1,0 +1,20 @@
+{
+  "name": "iss_spotter",
+  "version": "1.0.0",
+  "description": "ISS Spotter using ipify, freegeo, and open-notify - callback and promise versions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evanquirk/iss_spotter.git"
+  },
+  "keywords": [],
+  "author": "Evan Quirk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evanquirk/iss_spotter/issues"
+  },
+  "homepage": "https://github.com/evanquirk/iss_spotter#readme"
+}
